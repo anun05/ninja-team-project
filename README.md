@@ -1,2 +1,2 @@
 # ninja-team-project
-    I enjoy JavaScript because it utilizes both Functional programming and Object-oriented programming.
+I enjoy javascript because it's like magic. I get to make things happen on the computer.
